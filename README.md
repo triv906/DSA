@@ -6,7 +6,7 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 
 ## 📌 Topics Covered
 
-- [x] Arrays & Hashing
+- [ ] Arrays & Hashing
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack & Queue
@@ -29,4 +29,4 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 
 > *"Consistency is key to mastering problem-solving."*
 
-- **Target:** Solve 1 problem daily.
+- **Target:** Solve 1 problem daily🚀.
