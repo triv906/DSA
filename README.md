@@ -1,6 +1,6 @@
-# 🚀 Data Structures & Algorithms
+# 🚀 Data Structures & Algorithms 🚀
 
-Welcome to my DSA repository! This repository contains my solutions to various LeetCode problems, automatically synced using **LeetSync**, along with personal notes and topic-wise implementations.
+Welcome to my DSA repository! This repository contains my solutions to various LeetCode problems, automatically synced using **LeetSync**, along with personal notes and topic-wise implementations.....
 
 ---
 
