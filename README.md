@@ -30,3 +30,15 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 > *"Consistency is key to mastering problem-solving."*
 
 - **Target:** Solve 1 problem daily🚀.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/triv906/DSA/tree/master/0198-house-robber) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/triv906/DSA/tree/master/0198-house-robber) |
+<!---LeetCode Topics End-->
