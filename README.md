@@ -38,6 +38,7 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 | ------- |
 | [0198-house-robber](https://github.com/triv906/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triv906/DSA/tree/master/0213-house-robber-ii) |
+| [1929-concatenation-of-array](https://github.com/triv906/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +61,8 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/triv906/DSA/tree/master/0337-house-robber-iii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/triv906/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
