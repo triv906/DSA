@@ -36,6 +36,7 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/triv906/DSA/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/triv906/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triv906/DSA/tree/master/0213-house-robber-ii) |
 | [1929-concatenation-of-array](https://github.com/triv906/DSA/tree/master/1929-concatenation-of-array) |
@@ -65,4 +66,8 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/triv906/DSA/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/triv906/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
