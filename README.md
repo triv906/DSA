@@ -51,14 +51,17 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/triv906/DSA/tree/master/0100-same-tree) |
 | [0337-house-robber-iii](https://github.com/triv906/DSA/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/triv906/DSA/tree/master/0100-same-tree) |
 | [0337-house-robber-iii](https://github.com/triv906/DSA/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/triv906/DSA/tree/master/0100-same-tree) |
 | [0337-house-robber-iii](https://github.com/triv906/DSA/tree/master/0337-house-robber-iii) |
 ## DP on Trees
 |  |
@@ -76,4 +79,8 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/triv906/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/triv906/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
