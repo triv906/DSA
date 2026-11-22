@@ -83,4 +83,8 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/triv906/DSA/tree/master/0100-same-tree) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/triv906/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
