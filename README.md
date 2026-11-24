@@ -45,6 +45,7 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/triv906/DSA/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/triv906/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triv906/DSA/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/triv906/DSA/tree/master/0337-house-robber-iii) |
@@ -87,4 +88,12 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 |  |
 | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/triv906/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/triv906/DSA/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/triv906/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
