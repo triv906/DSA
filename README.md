@@ -41,6 +41,7 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 | [0120-triangle](https://github.com/triv906/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/triv906/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triv906/DSA/tree/master/0213-house-robber-ii) |
+| [1463-cherry-pickup-ii](https://github.com/triv906/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/triv906/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/triv906/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 | [0198-house-robber](https://github.com/triv906/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triv906/DSA/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/triv906/DSA/tree/master/0337-house-robber-iii) |
+| [1463-cherry-pickup-ii](https://github.com/triv906/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Tree
 |  |
 | ------- |
@@ -98,4 +100,8 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/triv906/DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [1463-cherry-pickup-ii](https://github.com/triv906/DSA/tree/master/1463-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
