@@ -95,6 +95,7 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/triv906/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/triv906/DSA/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
