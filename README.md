@@ -76,6 +76,7 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/triv906/DSA/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/triv906/DSA/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Welcome to my DSA repository! This repository contains my solutions to various L
 | ------- |
 | [0009-palindrome-number](https://github.com/triv906/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/triv906/DSA/tree/master/0062-unique-paths) |
+| [3360-stone-removal-game](https://github.com/triv906/DSA/tree/master/3360-stone-removal-game) |
 ## Combinatorics
 |  |
 | ------- |
